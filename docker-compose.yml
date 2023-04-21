@@ -1,0 +1,11 @@
+version: '3'
+
+networks:
+  node20bin:
+
+services:
+  node20:
+    image: node20bin:demo
+    container_name: node20
+    volumes:
+      - .:/app

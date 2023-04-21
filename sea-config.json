@@ -1,0 +1,4 @@
+{
+    "main": "out/index.js",
+    "output": "out/program.blob"
+}

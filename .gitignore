@@ -1,0 +1,6 @@
+.idea/
+dist/
+out/
+node_modules/
+**/*.blob
+demo
